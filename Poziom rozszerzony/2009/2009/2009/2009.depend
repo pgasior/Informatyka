@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1356027484 source:f:\inf(pr)\2009\2009\2009\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+

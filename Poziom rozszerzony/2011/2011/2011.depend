@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1355431950 source:j:\inf(pr)\2011\2011\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<string>
+	<cmath>
+	<algorithm>
+

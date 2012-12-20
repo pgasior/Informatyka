@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1352156877 source:c:\spoj\2010\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1353071416 source:e:\informatyka(pp)\2009\2009\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<math.h>
+
+1353073632 source:j:\informatyka(pp)\2009\2009\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+	<math.h>
+
